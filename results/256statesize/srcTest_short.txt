@@ -1,0 +1,80 @@
+Input text:
+Elles ont été déposées
+Translated text:
+ they have been tabled eeee
+True output text:
+They have been filed
+BLEU Score: 0.45950094854850315
+*******************
+Input text:
+Nous souffrons des compressions budgétaires aux aéroports
+Translated text:
+ we are asking for budgetary constraints to be made eeee
+True output text:
+We suffer from the cuts to airports
+BLEU Score: 0.09266115431438438
+*******************
+Input text:
+C'était une bonne chose à mon avis
+Translated text:
+ that was a good thing eeee
+True output text:
+To me that was a good thing
+BLEU Score: 0.7485779650810935
+*******************
+Input text:
+Nous approuvons d'emblée certains aspects du projet de loi
+Translated text:
+ we agree with some of the most important aspects of the draft law eeee
+True output text:
+We are pleased with certain aspects of the bill
+BLEU Score: 0.1823036971197188
+*******************
+Input text:
+Nous invitons le gouvernement à faire preuve de modération
+Translated text:
+ we call on the government to show a firm commitment eeee
+True output text:
+We would encourage caution here
+BLEU Score: 0.0769800358919501
+*******************
+Input text:
+Posez-vous cette question
+Translated text:
+ you are dealing with this issue eeee
+True output text:
+Ask yourself that question
+BLEU Score: 0
+*******************
+Input text:
+Qu'est-ce que les gens vont faire
+Translated text:
+ what people will do eeee
+True output text:
+What will people do
+BLEU Score: 0.19245008972987526
+*******************
+Input text:
+C'est inacceptable
+Translated text:
+ this is unacceptable eeee
+True output text:
+This is unacceptable
+BLEU Score: 0.703215867220802
+*******************
+Input text:
+Ils n'auront pas le choix
+Translated text:
+ they will not be able to choose eeee
+True output text:
+They will not have any choice
+BLEU Score: 0.25747160588610196
+*******************
+Input text:
+Les problèmes sont toujours là
+Translated text:
+ the problems are still unresolved eeee
+True output text:
+The problems have not gone away
+BLEU Score: 0.13603321290874382
+*******************

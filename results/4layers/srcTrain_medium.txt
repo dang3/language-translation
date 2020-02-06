@@ -1,0 +1,90 @@
+Input text:
+Si votre décision est que je ne puis pas donner d'explication de vote, je l'accepte, mais avec certaines réserves
+Translated text:
+ if you are able to vote on your decision i cannot vote for them eeee
+True output text:
+If your ruling is that I cannot give an explanation of vote, I accept that but with reservations
+BLEU Score: 0.050757127210768985
+*******************
+
+Input text:
+Il faut que les propositions qui en sortiront offrent un signal clair que l'Europe doit être fondée sur ses nations et qu'elle respectera leurs droits
+Translated text:
+ we must make proposals on the basis of a clear message that europe must make its own rights and that they are nations eeee
+True output text:
+The proposals that result from it must give out a clear signal that Europe must be built on its nations and that it will respect their laws
+BLEU Score: 0.0883820173111436
+*******************
+
+Input text:
+Dans un domaine un peu différent, l'Europe dispose d'une législation stipulant ce que sont les produits régionaux
+Translated text:
+ in a europe which has different legislation there are different regional legislation eeee
+True output text:
+In a slightly different area, there is legislation in Europe which defines precisely what regional products are
+BLEU Score: 0.0773366730564423
+*******************
+
+Input text:
+Dans le premier rapport du Parlement, nous avons déjà souligné quelques points
+Translated text:
+ in the first report we have already seen a number of points eeee
+True output text:
+We have already underlined a number of these principles in Parliament's first report
+BLEU Score: 0.2282484365812207
+*******************
+
+Input text:
+Monsieur le Président, je dois tout d'abord vous rappeler que nous ne connaissons encore ni les causes exactes, ni le déroulement des événements
+Translated text:
+ mr president i must first of all remind you that we are still lacking neither the events nor the events eeee
+True output text:
+Mr President, firstly I have to remind you that we do not yet know the exact causes and the series of events
+BLEU Score: 0.13637416630347338
+*******************
+
+Input text:
+Mais il s'agit effectivement d'un problème auquel nombre de citoyens européens sont confrontés chaque jour
+Translated text:
+ but it is a problem which affects many european citizens eeee
+True output text:
+But it is a problem which is affecting many European citizens on a daily basis
+BLEU Score: 0.399119619653364
+*******************
+
+Input text:
+Nous disposons d'assez d'options dans le système actuel pour assurer l'ouverture des marchés et la libre concurrence
+Translated text:
+ we have the current system open to opening up markets and free competition eeee
+True output text:
+There are enough other options in the present system to safeguard open markets and free competition
+BLEU Score: 0.1825825149732829
+*******************
+
+Input text:
+Monsieur le Président, la concurrence est l'âme et le moteur de la politique européenne en matière de marché intérieur
+Translated text:
+ mr president competition is the european internal market and the construction of the european internal market eeee
+True output text:
+Mr President, competition is at the heart of the European internal market policy and is also its driving force
+BLEU Score: 0.23865989262688564
+*******************
+
+Input text:
+La question qui se pose maintenant est de savoir si l'Union européenne participe aussi à cette lutte
+Translated text:
+ the question now arises as to whether the european union is fighting this eeee
+True output text:
+But the question is now: is the European Union doing anything about it as well
+BLEU Score: 0.13485078167116285
+*******************
+
+Input text:
+Dans ce contexte, je soutiens les appels à renforcer les contrôles effectués par l'État du port afin de garantir une inspection complète et efficace
+Translated text:
+ in this context i support the call for the control of the port of the sea to be effective and effective eeee
+True output text:
+In that context I support calls to strengthen port state control to ensure full and effective inspection
+BLEU Score: 0.09846107951428584
+*******************
+

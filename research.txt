@@ -1,8 +1,0 @@
-https://towardsdatascience.com/language-translation-with-rnns-d84d43b40571
-	-Explains how RNN can be used
-
-https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa
-	-Sequence to sequence along with RNN
-
-https://arxiv.org/pdf/1406.1078.pdf
-	-RNN encoder-decoder

@@ -1,0 +1,90 @@
+Input text:
+Les modifications n'ont pas lieu d'être
+Translated text:
+ the amendments are not being amended eeee
+True output text:
+There is no room for amendments
+BLEU Score: 0.08553337321327789
+*******************
+
+Input text:
+Il me semble que c'est une bonne formule
+Translated text:
+ i think that is a good thing eeee
+True output text:
+This seems to me to be a workable solution
+BLEU Score: 0.06198080249241538
+*******************
+
+Input text:
+Êtes-vous satisfait du rythme de ces progrès
+Translated text:
+ are you satisfied with the pace of progress eeee
+True output text:
+Are you satisfied with this rate of progress
+BLEU Score: 0.47504447083986046
+*******************
+
+Input text:
+C'est grotesque et cela doit cesser
+Translated text:
+ this is and it must stop eeee
+True output text:
+This is an obscenity and it must be stopped
+BLEU Score: 0.2307232854092204
+*******************
+
+Input text:
+Le débat est clos
+Translated text:
+ the debate is closed eeee
+True output text:
+The debate is closed
+BLEU Score: 1.010629663399238
+*******************
+
+Input text:
+Il devrait être considéré séparément
+Translated text:
+ it should be considered separately eeee
+True output text:
+It should be taken separately
+BLEU Score: 0.3840020289315366
+*******************
+
+Input text:
+J'ai voté "pour"
+Translated text:
+ i voted in favour eeee
+True output text:
+My vote is in favour
+BLEU Score: 0.15232686287280528
+*******************
+
+Input text:
+Je voudrais évoquer quelques points spécifiques
+Translated text:
+ i should like to mention a few specific points eeee
+True output text:
+I should like to mention a few specific points
+BLEU Score: 1.1167470964180197
+*******************
+
+Input text:
+Elles n'avaient pas dégagé de majorité à l'époque
+Translated text:
+ they did not have a majority at the time eeee
+True output text:
+There was no majority for this at the time
+BLEU Score: 0.22463326921512872
+*******************
+
+Input text:
+Sans approvisionnement, leur santé et leurs vies sont en danger
+Translated text:
+ without their health and their lives are at risk eeee
+True output text:
+Without supplies, their health and their lives can be at risk
+BLEU Score: 0.4908673447415274
+*******************
+

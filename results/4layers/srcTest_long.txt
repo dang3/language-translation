@@ -1,0 +1,90 @@
+Input text:
+Si on s'attend à ce qu'il y ait une rationalisation, comment va-t-on faire pour inviter les provinces à accepter de rationaliser leurs travailleurs dans les usines, s'il n'y a pas d'arrimage avec ce qui va se passer au niveau de la capture
+Translated text:
+ if what is happening then what can we do to ensure that we are able to work on the farms in the workplace and not to the detriment of workers who are in the dark eeee
+True output text:
+If rationalization is what they are hoping for, how are they going to persuade the provinces to go along with rationalizing their plant workers unless this is tied in with the catch
+BLEU Score: 0.019230937565124374
+*******************
+
+Input text:
+Franchement, que cela nous plaise ou non, n'eut été des mesures prises par le gouvernement, ce serait bien étonnant si nous avions une entente internationale sur les stocks de poisson
+Translated text:
+ we would be very grateful if we were to be able to act on the other side of the atlantic if we were to fish down the international public eeee
+True output text:
+Frankly, whether we like it or not, were it not for the actions of this government I would be surprised if we had an international agreement that deals with fish stocks
+BLEU Score: 0.04271302926330667
+*******************
+
+Input text:
+À cet égard, il faut rappeler qu'à cette époque, le débat avait porté sur le caractère licite ou illicite de ces nouvelles dispositions législatives en regard du droit international
+Translated text:
+ in this connection it has to be said that during the debate on the new law or the international conventions on the law of the legislative association eeee
+True output text:
+It must be kept in mind that, at that time, the debate addressed whether or not these new legislative powers were legal according to international law
+BLEU Score: 0.043441091034192414
+*******************
+
+Input text:
+D'une façon générale, nous avons toujours été en faveur des changements au système de justice criminelle pour les personnes handicapées et je pense que les handicapés du Canada seront heureux de cette mesure et en profiteront largement
+Translated text:
+ generally we have been able to support the criminal networks for disabled persons and i believe that the disabled and disabled people will be able to see this eeee
+True output text:
+We have always been generally supportive of changes to the criminal justice system for persons with disabilities and I believe that persons with disabilities in Canada will embrace the legislation and benefit greatly from it
+BLEU Score: 0.1046158738770234
+*******************
+
+Input text:
+Le député va dans la bonne direction, c'est-à-dire qu'il a le coeur accroché à la bonne place, mais je crois que nous pourrions mettre l'argent dans un régime de pension plus progressif
+Translated text:
+ the point is that it is in the right direction but i think that we would be very much in favour of the creation of a fund eeee
+True output text:
+The member is going in the right direction in terms of his heart and is being very thoughtful, but again I think we could put the money into a more progressive pension system
+BLEU Score: 0.10572325286343155
+*******************
+
+Input text:
+Nous devrions tout au moins chercher à créer un régime fiscal qui traite avec neutralité les familles où les conjoints tendent à consacrer le plus de temps possible à leurs enfants, ou au moins, comme quelqu'un le suggérait, à modifier le régime afin d'établir une discrimination en faveur de ces familles
+Translated text:
+ we should at least be able to create a tax on the regime which will allow the people to return to their own families and at the same time allow for a change of age to be given to the most vulnerable families eeee
+True output text:
+We ought to seek at the very least to create a tax code which treats families that seek to maximize their time with their children neutrally or at the very least, as someone proposed, we ought to make amendments to the tax code to positively discriminate in favour of such families
+BLEU Score: 0.07618429479022029
+*******************
+
+Input text:
+Ces programmes ne visent pas à améliorer la situation économique des parents autant qu'à régler les aspects sociaux et les rapports entre les parents et l'enfant
+Translated text:
+ these programmes are not intended to improve the situation of women as well as the social and family situation eeee
+True output text:
+These programs do not address the economic situation of the parents as much as they address the social aspect and the interplay between the parent and the child
+BLEU Score: 0.0448350657362598
+*******************
+
+Input text:
+Les victimes n'ont plus qu'à consacrer les précieuses années qu'il leur reste à vivre à se battre devant les tribunaux pour obtenir l'indemnisation à laquelle elles ont droit
+Translated text:
+ the victims of the atrocities are very often committed to the victims of the crime which they have suffered eeee
+True output text:
+What is left now for these victims is that they will have to spend precious years of what is left of their lives in court fighting for compensation which they should rightfully receive
+BLEU Score: 0.02650615909650589
+*******************
+
+Input text:
+Une conservation et une gestion appropriées de ces stocks pourraient contribuer grandement à assurer la durabilité de cette importante source d'alimentation pour les générations futures
+Translated text:
+ a sound and appropriate resource could be found to help this planet and the preservation of the future generations eeee
+True output text:
+Proper conservation and management of these stocks could make a significant contribution to ensuring the sustainability of this important food source for our future generations
+BLEU Score: 0.04300250472313525
+*******************
+
+Input text:
+J'aimerais beaucoup que le gouvernement en profite pour saisir la Chambre de projets de loi importants que les Canadiens réclament et dont ils ont grand besoin
+Translated text:
+ i would like to see the government of the major parliamentary assembly to make the necessary projects and to work properly eeee
+True output text:
+I really wish that this government would take an occasion like this to bring forward some substantial bills that the people out there are crying for, that they are demanding and that we need so desperately
+BLEU Score: 0.014461066497653951
+*******************
+

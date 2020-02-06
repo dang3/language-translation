@@ -1,0 +1,80 @@
+Input text:
+Les modifications n'ont pas lieu d'être
+Translated text:
+ the changes are not taken eeee
+True output text:
+There is no room for amendments
+BLEU Score: 0
+*******************
+Input text:
+Il me semble que c'est une bonne formule
+Translated text:
+ i think it is a good thing eeee
+True output text:
+This seems to me to be a workable solution
+BLEU Score: 0.06198080249241538
+*******************
+Input text:
+Êtes-vous satisfait du rythme de ces progrès
+Translated text:
+ are you satisfied with the progress made in this regard eeee
+True output text:
+Are you satisfied with this rate of progress
+BLEU Score: 0.35989778444787457
+*******************
+Input text:
+C'est grotesque et cela doit cesser
+Translated text:
+ this is and must stop eeee
+True output text:
+This is an obscenity and it must be stopped
+BLEU Score: 0.0978812187510189
+*******************
+Input text:
+Le débat est clos
+Translated text:
+ the debate is closed eeee
+True output text:
+The debate is closed
+BLEU Score: 1.010629663399238
+*******************
+Input text:
+Il devrait être considéré séparément
+Translated text:
+ it should be considered separately eeee
+True output text:
+It should be taken separately
+BLEU Score: 0.3840020289315366
+*******************
+Input text:
+J'ai voté "pour"
+Translated text:
+ i voted in favour eeee
+True output text:
+My vote is in favour
+BLEU Score: 0.15232686287280528
+*******************
+Input text:
+Je voudrais évoquer quelques points spécifiques
+Translated text:
+ i would like to mention a few specific points eeee
+True output text:
+I should like to mention a few specific points
+BLEU Score: 0.8513264863257972
+*******************
+Input text:
+Elles n'avaient pas dégagé de majorité à l'époque
+Translated text:
+ they did not have a majority in the time eeee
+True output text:
+There was no majority for this at the time
+BLEU Score: 0.1325425259930338
+*******************
+Input text:
+Sans approvisionnement, leur santé et leurs vies sont en danger
+Translated text:
+ without health the health and their lives will be threatened eeee
+True output text:
+Without supplies, their health and their lives can be at risk
+BLEU Score: 0.32564898203667714
+*******************

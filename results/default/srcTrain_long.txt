@@ -1,0 +1,90 @@
+Input text:
+Sans prétendre à l'exhaustivité, celle-ci garantirait au moins trois points: aucun cargo ou pétrolier ne pourra plus mouiller dans un port de l'Union européenne s'il est bon pour la casse; toutes les personnes concernées, y compris l'affréteur du transport, sont responsables des dégâts qui peuvent survenir; et ces personnes doivent contracter des assurances suffisantes
+Translated text:
+ without saying no one or three of them are entitled to a place in the european union or if they are to be able to be able to do so there is no cause for concern for those who have a sufficient degree of transport and those who have sufficient responsibility for those who have been
+True output text:
+No tanker or freighter fit only for the scrap heap must ever put into any harbour within the European Union again. All those involved, including the transport agent, are responsible for any ensuing damage, and these individuals are to provide satisfactory assurances
+BLEU Score: 0.039287078732937006
+*******************
+
+Input text:
+Je voudrais, Madame la Commissaire, vous égrener rapidement puisqu'ici le temps est très compté, les sept points qui nous paraissent, et vous en avez d'ailleurs cités quelques-uns, essentiels à travailler: la double coque le plus tôt possible dans nos eaux; le contrôle par l'État du port le plus sévère possible
+Translated text:
+ i would like to remind you commissioner you are very short and we are very anxious to see the three minimum deadlines that you have mentioned in a few weeks' time as the main number of our fellow member states to allow us to be able to work with the highest possible control of the state
+True output text:
+Commissioner, as time is very short, I would like to pick out the seven points which we feel, and you have already mentioned some of them, are essential to work on: double-hulled vessels in our waters as soon as possible and the strictest possible state control of ports. In particular, we must ensure that classification societies are compelled to make their reports public, as currently, we do not have access to them
+BLEU Score: 0.058229204991685976
+*******************
+
+Input text:
+Outre les dommages irréparables causés à l'environnement, les dommages subis par l'écosystème et les pertes pour le secteur touristique, la marée noire est un véritable coup de massue pour la pêche, pour la conservation des ressources dans le milieu marin, et il faudra attendre de nombreuses années avant que ces côtes ne se remettent de cette catastrophe
+Translated text:
+ in addition to the damage caused by the damage caused by the fishing industry and the damage caused by the fishing industry the destruction of the marine environment and the environment in the long term will be forced to take account of the consequences of this disaster eeee
+True output text:
+Because, as well as the irreparable damage to the environment, the damage to the ecosystem and losses in the tourist industry, the oil slick dealt a huge blow to the fishing industry, to the conservation of marine resources, and the damaged coast lines will take years to recover
+BLEU Score: 0.040964183218935454
+*******************
+
+Input text:
+D'une part, il convient de demander à la Commission de prendre, dans le cadre des aides prévues pour le secteur de la pêche, des mesures spéciales visant à pallier les effets de cette catastrophe sur le secteur productif des zones concernées et d'exiger des organismes internationaux et d'elle-même un contrôle extrême des bateaux battant pavillon de complaisance
+Translated text:
+ on the one hand the commission should ask the special attention of the special sector to take account of the measures to be taken in this sector to protect the fishing industry particularly the affected areas of the international fisheries sector and to demand a high level of control and to protect the vessels affected by
+True output text:
+On the one hand, by asking the Commission, within the scope of aid to the fishing industry, to implement special measures to compensate for the effects of this catastrophe on the industry in the areas affected, and also by asking them to demand, of international bodies and of themselves, tight controls on ships which sail under flags of convenience
+BLEU Score: 0.04712533723454847
+*******************
+
+Input text:
+Les dommages sociaux et économiques, dont on a déjà parlé ici aujourd'hui, en termes tant de perte d'emplois que de ressources marines et touristiques, sont d'une ampleur telle qu'ils justifient amplement une action décidée et marquante de la part des institutions communautaires
+Translated text:
+ the economic and social spheres of the european institutions today has already spoken about a massive scale of employment and employment which are a very critical and demanding action and that they are both justified and justified in the european institutions eeee
+True output text:
+The economic and social damage, which we have spoken about today, in terms of the loss of jobs and fishing and tourist resources, is so great that they fully justify decisive and thorough action on the part of the Community institutions
+BLEU Score: 0.0984148644912228
+*******************
+
+Input text:
+Nous devons tenir compte de ce fait. Je ne suis pas d'accord avec ceux qui affirment sans nuance que l'effet de serre est responsable de cette tempête mais il est relativement certain que si nous ne changeons pas rapidement de cap, nous devons craindre d'autres catastrophes
+Translated text:
+ we must not do this with the utmost people who have to do so with the way in which the fires are responsible for this disaster but we cannot of course say that if we do not have to wait for many disasters eeee
+True output text:
+We must be aware of this connection; I do not support those who make sweeping statements to the effect that the greenhouse effect is to blame for this storm, but one thing we can be relatively certain of is that we have reason to fear further catastrophes if we do not soon alter our course
+BLEU Score: 0.07022905290277075
+*******************
+
+Input text:
+Monsieur le Commissaire, l'ignorance de certains États membres a plongé l'Europe dans une crise alimentaire de grande ampleur et je suis une fois de plus irrité, malheureusement, de constater l'absence totale et renouvelée du Conseil alors que vous présentez ce rapport intéressant
+Translated text:
+ commissioner i have heard some of the member states in europe a great deal of food and i am sorry that the council has once again shown a great deal of time and the report and the of this report are not yet at the end of your day eeee
+True output text:
+Commissioner, the ignorance of certain Member States has landed us in a major food crisis here in Europe, and I am afraid that once more I have cause to be angry at the fact that again no Members of the Council are in attendance, and that on the day that you present your interesting report
+BLEU Score: 0.058090589570389616
+*******************
+
+Input text:
+Je suppose que la question a trait à la question de savoir où la compétence de cette autorité commence et prend fin et où la compétence et l'autorité des agences de sécurité alimentaire au sein des États membres commence et prend fin
+Translated text:
+ i ask the authority to decide where authority authority is concerned and when the competence of the authority and the competence of the member states and the agencies authority is ultimately at stake eeee
+True output text:
+I suspect that the question is focused on the issue of where the competence of the authority begins and ends and where the competence and authority of food safety agencies in Member States begin and end
+BLEU Score: 0.15025021110994413
+*******************
+
+Input text:
+Je demanderai conseil aux services juridiques, en gardant à l'esprit, en particulier, que cela peut fournir une réponse rapide dans le cas où une législation communautaire, en attente d'un arrêt du tribunal, n'est pas respectée
+Translated text:
+ i would ask the council to give legal advice in particular to the court of justice when it is possible to provide a legal basis for the community legislation in cases where the court of justice is not respected eeee
+True output text:
+It will require the advice of legal services and that will be sought, particularly bearing in mind that it may provide a speedy response to a failure to comply with Community law pending a court ruling
+BLEU Score: 0.02952464657861394
+*******************
+
+Input text:
+Il se peut que cela fasse l'objet de discussions ici et ailleurs. J'écouterai toute suggestion mais ma première conclusion est que cette autorité devrait occuper une position centrale plutôt que périphérique
+Translated text:
+ there may be discussions here and i would like to add that this suggestion is being discussed but i should like to add that the central bank should be a first player eeee
+True output text:
+It may be a matter for discussion here and elsewhere and I will listen to any suggestions that are made but my preliminary conclusion is that this Authority should be located centrally rather than on the periphery
+BLEU Score: 0.051395120261690234
+*******************
+

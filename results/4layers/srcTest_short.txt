@@ -1,0 +1,90 @@
+Input text:
+Elles ont été déposées
+Translated text:
+ they have been presented eeee
+True output text:
+They have been filed
+BLEU Score: 0.45950094854850315
+*******************
+
+Input text:
+Nous souffrons des compressions budgétaires aux aéroports
+Translated text:
+ we will be paying the budget for airports eeee
+True output text:
+We suffer from the cuts to airports
+BLEU Score: 0.11226255234242724
+*******************
+
+Input text:
+C'était une bonne chose à mon avis
+Translated text:
+ that was good eeee
+True output text:
+To me that was a good thing
+BLEU Score: 0.07733606459613068
+*******************
+
+Input text:
+Nous approuvons d'emblée certains aspects du projet de loi
+Translated text:
+ we share the concerns of the draft text eeee
+True output text:
+We are pleased with certain aspects of the bill
+BLEU Score: 0.12488377165015127
+*******************
+
+Input text:
+Nous invitons le gouvernement à faire preuve de modération
+Translated text:
+ we call on the government to take firm action eeee
+True output text:
+We would encourage caution here
+BLEU Score: 0.07840559211217141
+*******************
+
+Input text:
+Posez-vous cette question
+Translated text:
+ you will have to address that issue eeee
+True output text:
+Ask yourself that question
+BLEU Score: 0.08247860988423227
+*******************
+
+Input text:
+Qu'est-ce que les gens vont faire
+Translated text:
+ what do people think about this eeee
+True output text:
+What will people do
+BLEU Score: 0.1283000598199168
+*******************
+
+Input text:
+C'est inacceptable
+Translated text:
+ this is unacceptable eeee
+True output text:
+This is unacceptable
+BLEU Score: 0.703215867220802
+*******************
+
+Input text:
+Ils n'auront pas le choix
+Translated text:
+ they will not be eeee
+True output text:
+They will not have any choice
+BLEU Score: 0.27870141346170446
+*******************
+
+Input text:
+Les problèmes sont toujours là
+Translated text:
+ there are still problems eeee
+True output text:
+The problems have not gone away
+BLEU Score: 0.05836343994280836
+*******************
+

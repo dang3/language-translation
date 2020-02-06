@@ -1,0 +1,80 @@
+Input text:
+Il devrait aider les entreprises à prendre notre ressource et en faire autre chose pour les gens de chez nous
+Translated text:
+ it should help to make our own research and we do so in order to help people in our own interest eeee
+True output text:
+It should help businesses to take our resource and develop other products from it for the good of our own people
+BLEU Score: 0.17064765135700216
+*******************
+Input text:
+Nous devons diversifier notre économie de manière à ne plus compter que sur une seule source de revenus tirée d'une même ressource naturelle
+Translated text:
+ we must be our economy to avoid having a income only one source of income eeee
+True output text:
+We have to diversify our economy so that we do not rely on one source of revenue coming from one natural resource
+BLEU Score: 0.12372479360332
+*******************
+Input text:
+Comme vous le savez, lorsque les ressources deviennent limitées, des conflits éclatent s'il y a apparence de répartition inégale
+Translated text:
+ as you know when resources are limited the conflicts are limited if there is a level playing field eeee
+True output text:
+As we know, when resources become tight, when there seems to be an unfair distribution, then conflict often develops
+BLEU Score: 0.0991424764166351
+*******************
+Input text:
+Le devoir de satisfaire à leurs besoins est d'une importance fondamentale pour les personnes handicapées, de même que pour des groupes comme les minorités religieuses
+Translated text:
+ the need to meet their needs is of fundamental importance for their people as well as for their religious groups eeee
+True output text:
+The duty to accommodate is of vital importance to persons with disabilities as well as to groups such as religious minorities
+BLEU Score: 0.17372113485132099
+*******************
+Input text:
+Il y a beaucoup d'éléments positifs dans ce projet de loi, des éléments qui méritent que nous les appuyions au nom des gens qui nous ont élus
+Translated text:
+ there are many positive elements in this area on the basis of the criteria we have been calling for to the people who have been elected eeee
+True output text:
+There is a lot in this bill that is right and that is worthy of our support as representatives of the people who elected us
+BLEU Score: 0.15267673871329238
+*******************
+Input text:
+C'est très décevant, surtout qu'il s'agit d'un projet de loi d'une si grande importance pour un si grand nombre de nos concitoyens
+Translated text:
+ this is particularly disappointing as a result of the proposed legislation which is a great many of our citizens eeee
+True output text:
+It is very disappointing, especially since this bill is so important to so many of our fellow citizens
+BLEU Score: 0.15748183587132605
+*******************
+Input text:
+Un examen plus poussé de la Loi sur les droits de la personne et du système de la Commission des droits de la personne est également nécessaire
+Translated text:
+ greater attention is paid to the rights of the right of the commission and the rights of the individual to be dealt with eeee
+True output text:
+A further review of the human rights act and the human rights commission system is also needed
+BLEU Score: 0.12749385213124095
+*******************
+Input text:
+Toutefois, elle n'examine pas la même plainte venant de nombreuses autres personnes ailleurs au pays
+Translated text:
+ however it does not apply to the other countries themselves eeee
+True output text:
+It does not, however, address the same complaint that many others may have across the country
+BLEU Score: 0.06884481101353379
+*******************
+Input text:
+C'est ce qui explique les réserves que j'ai eues au départ à propos de la peine maximale de cinq ans
+Translated text:
+ this is the background to the reservations that i have expressed on the maximum limit over the last five years eeee
+True output text:
+That is why I had the initial reservations with respect to the maximum sentence being only five years
+BLEU Score: 0.16064482126255666
+*******************
+Input text:
+Je pense que c'est une mesure extrêmement importante qui n'existait pas auparavant
+Translated text:
+ i think that is a very important measure which has not been taken up eeee
+True output text:
+I believe this is something that is extremely important which did not exist previous to this legislation
+BLEU Score: 0.1089733254700913
+*******************
